@@ -41,6 +41,7 @@ It does not absorb neighboring module responsibilities. Core primitives stay in 
 - `gnalloy.org/observability` (`observability`)
 
 ## Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 
 ## Common Integration Pattern

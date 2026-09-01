@@ -19,11 +19,12 @@ This module provides telemetry contracts or adapters. It records bounded metrics
 - `gnalloy.org/observability` (`observability`)
 
 ## Direct Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 
-## Direct Dependents in the Current Module Plan
+## Direct Dependents in the Current Repository Set
+
 - `gnalloy.org/handler-metrics`
-- `gnalloy.org/observability-otel`
 
 ## Architecture Position
 
